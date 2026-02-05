@@ -2,6 +2,7 @@
 
 Projeto simples em Python para registrar e somar gastos via terminal.
 
-## Como rodar
+## Como rodar:
 ```bash
 python main.py
+
